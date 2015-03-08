@@ -27,6 +27,13 @@ This is a working document that specifies how the Archive will work.
 
 ## Moderation
 
+### Who are Publishers?
+
+Publishers are meant to be entities that put their own content web. Each affiliated Publisher is given its community within the umbrella AIAC community. There are two conceptual types of publishers:
+
+- **Organizations.** These are groups who typically publish to a single place on the web. For example, a Blog can be a Publisher and publish the works of many different authors.
+- **Individuals.** These are astronomers who publish their own material, but potentially this material could be in different formats and be published to different sites. This is a catch-all for an individual's own blog posts, ipython notebooks, presentations, tweets, and other content that is not otherwise formally indexed by ADS. When an individual publishes through an affiliated organization that content goes to the organization's Zenodo community.
+
 ### Accepted Subjects
 
 (stub)
