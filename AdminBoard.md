@@ -17,6 +17,6 @@ Members (in no particular order)
  - Jake Vanderlas
  - Elisabeth Newton
  - Alberto Alcomozzi
- - Lars 
+ - Lars Holm Nielsen
 
 (See Issue #13)
